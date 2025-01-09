@@ -9,7 +9,7 @@
 
 2. **Run the Script:**
     ```bash
-    gsutil cp gs://cloudhustlers/gsp004.sh
+    gsutil cp gs://cloudhustlers/gsp004.sh .
 
     sudo chmod +x gsp004.sh
 

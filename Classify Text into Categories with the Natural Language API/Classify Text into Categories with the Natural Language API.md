@@ -7,7 +7,7 @@ export KEY=
 ```
 
 ```bash
-gsutil cp gs://cloudhustlers/gsp063.sh
+gsutil cp gs://cloudhustlers/gsp063.sh .
 
 sudo chmod +x gsp063.sh
 

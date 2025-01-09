@@ -7,7 +7,7 @@ export REGION=
 ```
 
 ```bash
-gsutil cp gs://cloudhustlers/gsp074.sh
+gsutil cp gs://cloudhustlers/gsp074.sh .
 
 sudo chmod +x gsp074.sh
 

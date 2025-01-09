@@ -3,7 +3,7 @@
 ### Run the following Commands in Cloud Shell
 
 ```bash
-gsutil cp gs://cloudhustlers/gsp852-1.sh
+gsutil cp gs://cloudhustlers/gsp852-1.sh .
 
 sudo chmod +x gsp852-1.sh
 
@@ -40,7 +40,7 @@ GROUP BY
 ### Run again the following Commands in Cloud Shell
 
 ```bash
-gsutil cp gs://cloudhustlers/gsp852-2.sh
+gsutil cp gs://cloudhustlers/gsp852-2.sh .
 
 sudo chmod +x gsp852-2.sh
 

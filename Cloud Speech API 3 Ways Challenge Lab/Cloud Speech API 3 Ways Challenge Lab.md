@@ -42,7 +42,7 @@ export task_5_file=""
 ```
 
 ```bash
-gsutil cp gs://cloudhustlers/arc132.sh
+gsutil cp gs://cloudhustlers/arc132.sh .
 
 sudo chmod +x arc132.sh
 

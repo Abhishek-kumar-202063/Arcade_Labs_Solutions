@@ -3,7 +3,7 @@
 ### Run the following Commands in Cloud Shell
 
 ```bash
-gsutil cp gs://cloudhustlers/arc122.sh
+gsutil cp gs://cloudhustlers/arc122.sh .
 
 sudo chmod +x arc122.sh
 

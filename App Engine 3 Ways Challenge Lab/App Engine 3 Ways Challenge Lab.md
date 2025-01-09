@@ -8,7 +8,7 @@ export MESSAGE=""
 ```
 
 ```bash
-gsutil cp gs://cloudhustlers/arc112.sh
+gsutil cp gs://cloudhustlers/arc112.sh .
 
 sudo chmod +x arc112.sh
 

@@ -15,7 +15,7 @@ Understanding how to create and manage VMs is crucial for deploying scalable app
 Run the following commands to complete the lab tasks:
 
 ```bash
-gsutil cp gs://cloudhustlers/gsp001.sh
+gsutil cp gs://cloudhustlers/gsp001.sh .
 
 sudo chmod +x gsp001.sh
 

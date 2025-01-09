@@ -5,7 +5,7 @@
 * NOTE: if you get `TASK 4` instruction to `Delete Null population and country area data` from `oxford_policy_tracker_by_countries table`, restart the lab. Otherwise, you will not get the score for `Task 4`.
 
 ```bash
-gsutil cp gs://cloudhustlers/gsp340.sh
+gsutil cp gs://cloudhustlers/gsp340.sh .
 
 sudo chmod +x gsp340.sh
 

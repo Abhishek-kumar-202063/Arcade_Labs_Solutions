@@ -17,7 +17,7 @@ export ZONE=
 ```
 
 ```bash
-curl -LO raw.githubusercontent.com/Abhishek-kumar-202063/Arcade_Labs_Solutions/main/Cloud%20Functions%202nd%20Gen%20Qwik%20Start/gsp1089-1.sh
+gsutil cp gs://cloudhustlers/gsp1089-1.sh .
 
 sudo chmod +x gsp1089-1.sh
 
@@ -27,7 +27,7 @@ sudo chmod +x gsp1089-1.sh
 ### Now Check The Score Upto `Task 6` then Process Next, `Wait for 5-10 minutes`
 
 ```bash
-curl -LO raw.githubusercontent.com/Abhishek-kumar-202063/Arcade_Labs_Solutions/main/Cloud%20Functions%202nd%20Gen%20Qwik%20Start/gsp1089-2.sh
+gsutil cp gs://cloudhustlers/gsp1089-2.sh .
 
 sudo chmod +x gsp1089-2.sh
 

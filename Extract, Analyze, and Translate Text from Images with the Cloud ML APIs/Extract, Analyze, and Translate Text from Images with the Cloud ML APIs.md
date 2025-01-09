@@ -3,7 +3,7 @@
 ### Run the following Commands in Cloud Shell
 
 ```bash
-gsutil cp gs://cloudhustlers/gsp075.sh
+gsutil cp gs://cloudhustlers/gsp075.sh .
 
 sudo chmod +x gsp075.sh
 

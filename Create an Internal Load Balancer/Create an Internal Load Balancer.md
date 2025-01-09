@@ -15,7 +15,7 @@ export ZONE_2=
 ```
 
 ```bash
-gsutil cp gs://cloudhustlers/gsp216.sh
+gsutil cp gs://cloudhustlers/gsp216.sh .
 
 sudo chmod +x gsp216.sh
 

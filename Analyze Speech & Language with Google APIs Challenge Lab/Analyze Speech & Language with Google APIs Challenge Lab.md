@@ -6,7 +6,7 @@
 export API_KEY=
 ```
 ```bash
-gsutil cp gs://cloudhustlers/arc114.sh
+gsutil cp gs://cloudhustlers/arc114.sh .
 
 sudo chmod +x arc114.sh
 

@@ -7,7 +7,7 @@ export ZONE=
 ```
 
 ```bash
-curl -LO raw.githubusercontent.com/Abhishek-kumar-202063/Arcade_Labs_Solutions/main/Analyzing%20Findings%20with%20Security%20Command%20Center/gsp1164-1.sh
+gsutil cp gs://cloudhustlers/gsp1164-1.sh .
 
 sudo chmod +x gsp1164-1.sh
 
@@ -33,7 +33,7 @@ echo "SCC LINK : https://console.cloud.google.com/security/command-center/config
 ### Run again the following Commands in Cloud Shell
 
 ```bash
-curl -LO raw.githubusercontent.com/Abhishek-kumar-202063/Arcade_Labs_Solutions/main/Analyzing%20Findings%20with%20Security%20Command%20Center/gsp1164-2.sh
+gsutil cp gs://cloudhustlers/gsp1164-2.sh .
 
 sudo chmod +x gsp1164-2.sh
 

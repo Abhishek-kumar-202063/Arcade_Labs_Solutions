@@ -15,7 +15,7 @@ export REGION=
 ```
 
 ```bash
-gsutil cp gs://cloudhustlers/arc104.sh
+gsutil cp gs://cloudhustlers/arc104.sh .
 
 sudo chmod +x arc104.sh
 

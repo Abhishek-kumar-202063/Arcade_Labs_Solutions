@@ -29,7 +29,7 @@ export FRONT_IDENT=
 ```
 
 ```bash
-gsutil cp gs://cloudhustlers/gsp319.sh
+gsutil cp gs://cloudhustlers/gsp319.sh .
 
 sudo chmod +x gsp319.sh
 

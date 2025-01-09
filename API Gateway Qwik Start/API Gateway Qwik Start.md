@@ -1,7 +1,5 @@
 <div align="center">
-
 ## 🚀 API Gateway: Qwik Start || [GSP872]
-
 </div>
 
 <div align="center">

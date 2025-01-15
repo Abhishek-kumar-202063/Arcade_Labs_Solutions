@@ -24,27 +24,35 @@
   </a>
 </p>
 
-# API Gateway: Qwik Start || [GSP872]
+# 🚀 Arcade Hero: Enter the Artifact Registry Go |#ARC156|
 
-### Run the following Commands in Cloud Shell
+
+Open your **Google CloudShell** and run the following commands to start your lab:
+
 
 ```bash
+
+export REPO_NAME=
+
+```
+
+```bash
+
 export REGION=
+
 ```
 
 ```bash
-gsutil cp gs://cloudhustlers/gsp872.sh .
+gcloud artifacts repositories create $REPO_NAME --repository-format=go --location=$REGION
 
-sudo chmod +x gsp872.sh
-
-./gsp872.sh
 ```
+
+---
 
 ### Congratulations for completing the Lab !
 
 
 </div>
-<img src="https://raw.githubusercontent.com/Abhishek-kumar-202063/content/f9a8642976ea21cd234c91239431e41f05264842/gif/baby.gif" align="right" width="400">
 
 <p align="left">
   <a href="https://youtu.be/8bQOoeeif7A">
